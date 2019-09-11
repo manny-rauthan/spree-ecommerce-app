@@ -1,0 +1,14 @@
+#spree-header {
+ background-color: #fff
+}
+#header {
+	background: #fff !important;
+	padding: 0px !important;
+	border-bottom: 1px dashed #ddd;
+}
+#spree-header .nav a{
+	color: #000
+}
+#spree-header .nav a:hover{
+	background-color: #fff
+}
